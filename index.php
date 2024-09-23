@@ -1,11 +1,5 @@
 <?php get_header(); ?>
 
-  <section class="banner">
-    <div class="banner__heading-box">
-      <h1 class="banner__main-heading">Blog Posts</h1>
-      <h2 class="banner__sub-heading">Keep up to date with out latest news</h2>
-    </div>
-  </section>
 
   <section class="blog__archive">
     <div class="container">
